@@ -1,0 +1,36 @@
+body{
+  background: #f4f4f4;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  line-height: 1.5;
+  margin: 0;
+}
+a{
+  text-decoration: none;
+  padding: 5px 10px;
+  border-radius: 10px;
+  border: 1px solid #1eaedb;
+}
+
+.c-text{
+  text-align: center;
+}
+.mt{
+  margin-top: 5%;
+}
+.mt-box{
+  margin-top: 2%;
+}
+#navbar{
+  margin-top: 20px;
+}
+.download{
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+a:hover{
+  background: #1eaedb;
+  color: #fff;
+
+}
